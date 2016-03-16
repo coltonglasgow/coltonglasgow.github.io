@@ -1,0 +1,38 @@
+.circle{
+background-color: black;
+display: inline-block;
+}
+
+#first{
+margin-right: 50px;
+border-radius: 50px;
+height: 100px;
+width: 100px;
+line-height: 100px;
+padding-top: 18px;
+}
+
+#second{
+border-radius: 50px;
+height: 100px;
+width: 100px;
+line-height: 100px;
+padding-top: 16px;
+margin-top: 150px;
+color: white;
+}
+
+#third{
+margin-left: 50px;
+border-radius: 50px;
+height: 100px;
+width: 100px;
+line-height: 100px;
+padding-top: 16px;
+}
+
+#name{
+position:absolute;
+left: 26%;
+}
+
