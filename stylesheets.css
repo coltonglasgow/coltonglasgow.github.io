@@ -36,3 +36,10 @@ position:absolute;
 left: 26%;
 }
 
+#sl{
+position:absolute;
+right: -300px;
+bottom: -438px;
+width: 600px;
+height: 500px; 
+}

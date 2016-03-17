@@ -140,13 +140,14 @@ hr.small {
 }
 
 #sidebar-wrapper.active {
-    right: 250px;
-    width: 250px;
+    right: 0px;
+    width: 700px;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
+    background-color: transparent;
 }
 
 .toggle {
