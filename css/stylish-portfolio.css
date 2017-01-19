@@ -36,6 +36,18 @@ body {
 
 /* Custom Button Styles */
 
+.fa-youtube {
+  color: white;
+}
+
+.fa-github {
+  color: white;
+}
+
+.fa-code {
+  color: white;
+}
+
 .btn-dark {
     border-radius: 0;
     color: #fff;
